@@ -12,7 +12,7 @@ Tested on Python = 3.8; numba = 0.5; numpy = 1.22, opencv-python = 4.5, scikit-l
 	- [generate_eigendecomposition.py](generate_eigendecomposition.py)
 	- [generate_eigendecomposition_BORDER_CONSTANT.py](generate_eigendecomposition_BORDER_CONSTANT.py)
 	- [generate_eigendecomposition_BORDER_REPLICATE.py](generate_eigendecomposition_BORDER_REPLICATE.py)
-	- [generate_eigendecomposition_BORDER_REFLECT101.py](generate_eigendecomposition_BORDER_REFLECT101)
+	- [generate_eigendecomposition_BORDER_REFLECT101.py](generate_eigendecomposition_BORDER_REFLECT101.py)
 5. Run script to generate embedding using eigendecompostion with Incremental PCA:
 	- [generate_eigendecomposition_incremental.py](generate_eigendecomposition_incremental.py), you can set four types of embedding;
 6. Generate embedding of the dataset using eigendecompostion generated with PCA:
