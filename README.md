@@ -2,6 +2,7 @@
 
 Tested on Python = 3.8; numba = 0.5; numpy = 1.22, opencv-python = 4.5, scikit-learn = 1.0, scipy = 1.8
 
+R Language = 3.6.2; ggplot2 = 3.4
 
 ## How to run
 
